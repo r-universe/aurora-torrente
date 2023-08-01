@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RcmdrPlugin.depthTools"]
+	path = RcmdrPlugin.depthTools
+	url = https://github.com/cran/RcmdrPlugin.depthTools
 [submodule "briKmeans"]
 	path = briKmeans
 	url = https://github.com/cran/briKmeans
 [submodule "depthTools"]
 	path = depthTools
 	url = https://github.com/cran/depthTools
-[submodule "RcmdrPlugin.depthTools"]
-	path = RcmdrPlugin.depthTools
-	url = https://github.com/cran/RcmdrPlugin.depthTools
